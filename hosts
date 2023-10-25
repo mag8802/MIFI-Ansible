@@ -1,0 +1,4 @@
+# Here's another example of host ranges, this time there are no leading 0s:
+# My personal inventory group:
+[Matveev]
+192.168.56.104  
